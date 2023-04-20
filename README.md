@@ -1,6 +1,6 @@
 <h2 align="center"> Oscar De Caralt Roy </h2>
 <h3 align="center"> CS Student at the University of Barcelona </h3>
-<h5 align="center"> oscardecaraltroy@gmail.com </h5>
+
 
 
 # 💫 About Me:
