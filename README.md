@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hello there! Welcome to my GitHub profile! I'm a third-year Computer Science student at the University of Barcelona.
+Hello there! Welcome to my GitHub profile! I'm a fourth-year Computer Science student at the University of Barcelona.
 
 I am passionate about programming and exploring new areas such as computer graphics, AI, security, video games,software development and many others. I love to take on new challenges and embark on personal projects. I believe that personal projects are a great way to learn and expand my skills. I am always eager to learn and try out new things, whether that is experimenting with a new technology or trying out a new programming language.<br><br>Collaboration is something that I hold in high regard. I enjoy working in a team, and I believe that it's an excellent way to come up with creative solutions and produce great results. Working with people with different perspectives is always exciting, and I believe that it's a great way to learn and grow.<br><br>On my GitHub account, you can find some of my personal projects that I have worked on. I am always looking for new and exciting ways to apply my programming skills, and I am open to any ideas or collaborations. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or ideas to share!<br>
 
